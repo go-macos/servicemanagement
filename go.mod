@@ -1,6 +1,6 @@
 module github.com/go-macos/servicemanagement
 
-go 1.26.4
+go 1.27.1
 
 require github.com/go-macos/objc v0.10.2
 
